@@ -1,11 +1,6 @@
 # CS-knowledge
 记录自己学习过程中所写的markdown笔记
 
-## 
-
-+ [abc](./abc.md)
-
-+ [README](./README.md)
 
 ## 网络相关
 
