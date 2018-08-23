@@ -1,5 +1,5 @@
 # CS-knowledge
-记录自己学习过程中的markdown笔记
+记录自己学习过程中所写的markdown笔记
 
 ## <a href="https://github.com/dy21335/CS-knowledge/tree/master/css">css</a>
 + <a href=https://github.com/dy21335/CS-knowledge/blob/master/css/%08%E5%9E%82%E7%9B%B4%E5%B1%85%E4%B8%AD.md>垂直居中</a>     
