@@ -42,3 +42,6 @@
 
 ## <a href="https://github.com/dy21335/CS-knowledge/tree/master/设计模式">设计模式</a>
 + <a href="https://github.com/dy21335/CS-knowledge/blob/master/%E8%AE%BE%E8%AE%A1%E6%A8%A1%E5%BC%8F/MVC.md">MVC</a>
+
+## 算法相关
++ <a href="https://github.com/dy21335/algorithm">在另外一个仓库里</a>
