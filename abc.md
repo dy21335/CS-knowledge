@@ -8,7 +8,7 @@
 
 + [jasonp](网络相关/jasonp.md)
 
-+ [xsfcsrf](网络相关/xsf&csrf.md)
++ [xsfcsrf](网络相关/xsf&csrf.md)
 
 + [js二维数组](网络相关/js二维数组.md)
 
@@ -24,9 +24,9 @@
 
 + [css三角形](css/css三角形.md)
 
-+ [伪元素:befor&after](css/伪元素:befor&after.md)
++ [伪元素:befor&after](css/伪元素:befor&after.md)
 
-+ [垂直居中](css/垂直居中.md)
++ [垂直居中](css/垂直居中.md)
 
 ## js
 
@@ -34,7 +34,7 @@
 
 + [js继承](js/js继承.md)
 
-+ [函数防抖&函数节流](js/函数防抖&函数节流.md)
++ [函数防抖&函数节流](js/函数防抖&函数节流.md)
 
 ## vue
 
@@ -44,7 +44,7 @@
 
 ## 性能优化
 
-+ [浏览器内核及其特性](性能优化/浏览器内核及其特性.md)
++ [浏览器内核及其特性](性能优化/浏览器内核及其特性.md)
 
 ## es6
 
