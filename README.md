@@ -7,7 +7,7 @@
 + <a href=https://github.com/dy21335/CS-knowledge/blob/master/css/css%E4%B8%89%E8%A7%92%E5%BD%A2.md>css三角形</a>          
 + <a href=https://github.com/dy21335/CS-knowledge/blob/master/css/dotLoading.md>dotLoading</a>
 + <a href=https://github.com/dy21335/CS-knowledge/blob/master/css/link%24%40import.md>link$@import</a>  
-+ <a href=./css/css选择器>css选择器</a> 
++ <a href=./css/css选择器.md>css选择器</a> 
 
 ## <a href="https://github.com/dy21335/CS-knowledge/tree/master/es6">es6</a>
 + <a href="https://github.com/dy21335/CS-knowledge/blob/master/es6/bind.md">bind</a>  
