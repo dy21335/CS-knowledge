@@ -17,6 +17,8 @@
 
 + [cookie&session&localstorage&sessionstorage](网络相关/cookie&session&localstorage&sessionstorage.md)
 
++ [浏览器缓存机制](网络相关/浏览器缓存机制.md)
+
 ## css
 
 + [css选择器](css/css选择器.md)
@@ -38,6 +40,8 @@
 + [js继承](js/js继承.md)
 
 + [函数防抖&函数节流](js/函数防抖&函数节流.md)
+
++ [正则表达式](js/正则表达式.md)
 
 ## vue
 
